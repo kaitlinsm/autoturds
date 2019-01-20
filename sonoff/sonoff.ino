@@ -99,6 +99,10 @@ void reconnect() {
   }
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 07ca129... added actual sonoff sketch
 void setup()
 {
   Serial.begin(115200);
